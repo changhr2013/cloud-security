@@ -1,6 +1,6 @@
 package com.changhr.cloud.security.demo.web.controller;
 
-import com.changhr.cloud.securtiy.demo.DemoApplication;
+import com.changhr.cloud.securtiy.DemoApplication;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
