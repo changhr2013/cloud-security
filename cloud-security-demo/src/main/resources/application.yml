@@ -11,3 +11,8 @@ server:
 #security:
 #  basic:
 #    enabled: false
+simple:
+  security:
+    browser:
+#      loginPage: /demo-signIn.html
+      loginType: REDIRECT
